@@ -6,7 +6,6 @@ public class Lekcja4 {
     }
 
 
-
     //Print season based on given month
     //"Spring": March  to May
     //"Summer": June  to August
